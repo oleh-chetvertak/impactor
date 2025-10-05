@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\olegc\\OneDrive\\Documents\\Unity\\impactor\\impactor\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\front end 01 07\\unity\\impactor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{207069D7-070C-4A75-B541-2FFD2E841D4E}|Assembly-CSharp.csproj|c:\\front end 01 07\\unity\\impactor\\assets\\scripts\\asteroidvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207069D7-070C-4A75-B541-2FFD2E841D4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\asteroidvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207069D7-070C-4A75-B541-2FFD2E841D4E}|Assembly-CSharp.csproj|c:\\front end 01 07\\unity\\impactor\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207069D7-070C-4A75-B541-2FFD2E841D4E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveCamera.cs",
+              "DocumentMoniker": "C:\\front end 01 07\\unity\\impactor\\Assets\\Scripts\\MoveCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveCamera.cs",
+              "ToolTip": "C:\\front end 01 07\\unity\\impactor\\Assets\\Scripts\\MoveCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveCamera.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:29:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsteroidVision.cs",
+              "DocumentMoniker": "C:\\front end 01 07\\unity\\impactor\\Assets\\Scripts\\AsteroidVision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AsteroidVision.cs",
+              "ToolTip": "C:\\front end 01 07\\unity\\impactor\\Assets\\Scripts\\AsteroidVision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AsteroidVision.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:19:19.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
