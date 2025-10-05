@@ -1,1 +1,2 @@
+# Impactor
 Our project is an interactive programme showing scenarios of interaction between hazardous meteor and Earth. The programme involves 3 key scenarios: Impact event, destruction of meteor by nuclear weapon and changing of meteor's trajectory by disruption of nuclear trigger delivered with rocket or altering the meteor's trajectory using magnets delivered by rocket. The programme allowes user to input dimensions, mass and speed of the meteor. The project demonstrates the necessity of developing the methods of counteraction the potentially hazardous objects.
