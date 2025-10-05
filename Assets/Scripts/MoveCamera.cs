@@ -3,8 +3,8 @@
 public class MoveCamera : MonoBehaviour
 {
     public Camera targetCamera;  
-    private const float moveDistanceBackward = 500f; 
-    private const float moveDistanceLeft = 100f;
+    private const float moveDistanceBackward = 1000f; 
+    private const float moveDistanceLeft = 1000f;
     private const float moveSpeed = 1f;
     private const float smoothTime = 0.3f; // чем меньше, тем быстрее движение
 

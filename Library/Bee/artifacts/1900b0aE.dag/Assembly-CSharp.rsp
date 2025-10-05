@@ -355,6 +355,7 @@
 "Assets/Planet Earth Free/SpinFree.cs"
 "Assets/Scripts/AsteroidVision.cs"
 "Assets/Scripts/CanvasToggler.cs"
+"Assets/Scripts/FormHandler.cs"
 "Assets/Scripts/MoveCamera.cs"
 "Assets/Scripts/Rotate.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
